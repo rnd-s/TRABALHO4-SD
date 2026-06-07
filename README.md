@@ -226,17 +226,3 @@ Para demonstrar o desacoplamento temporal:
 5. Observe a mensagem sendo processada automaticamente.
 
 ---
-
-# Conclusão
-
-O trabalho implementou com sucesso uma arquitetura baseada em Filas de Mensagens utilizando RabbitMQ.
-
-Os testes realizados demonstraram:
-
-* Comunicação indireta;
-* Desacoplamento espacial;
-* Desacoplamento temporal;
-* Processamento assíncrono;
-* Resiliência básica a falhas.
-
-Dessa forma, os objetivos propostos para a Opção C (Message Queues) foram atingidos.
